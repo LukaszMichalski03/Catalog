@@ -1,0 +1,8 @@
+C:\Users\Łukasz\source\repos\Katalog\bin\Debug\Katalog.exe.config
+C:\Users\Łukasz\source\repos\Katalog\bin\Debug\Katalog.exe
+C:\Users\Łukasz\source\repos\Katalog\bin\Debug\Katalog.pdb
+C:\Users\Łukasz\source\repos\Katalog\obj\Debug\Katalog.csproj.AssemblyReference.cache
+C:\Users\Łukasz\source\repos\Katalog\obj\Debug\Katalog.csproj.SuggestedBindingRedirects.cache
+C:\Users\Łukasz\source\repos\Katalog\obj\Debug\Katalog.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\source\repos\Katalog\obj\Debug\Katalog.exe
+C:\Users\Łukasz\source\repos\Katalog\obj\Debug\Katalog.pdb
